@@ -8,18 +8,29 @@ Each notebook is self-contained and focuses on a specific concept, using the **N
 
 ## 📋 Table of Contents
 
-  - [Getting Started](https://www.google.com/search?q=%23-getting-started)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Installation](https://www.google.com/search?q=%23installation)
-  - [Notebook Descriptions](https://www.google.com/search?q=%23-notebook-descriptions)
-      - [1. Tokenization](https://www.google.com/search?q=%231-tokenization-1_tokenizationipynb)
-      - [2. Stemming](https://www.google.com/search?q=%232-stemming-2_stemmingipynb)
-      - [3. Lemmatization](https://www.google.com/search?q=%233-lemmatization-3_lemmatizationipynb)
-      - [4. Text Preprocessing Workflow](https://www.google.com/search?q=%234-text-preprocessing-workflow-4_text-preprocessing_stopwords_with_nltkipynb)
-      - [5. Part-of-Speech (POS) Tagging](https://www.google.com/search?q=%235-part-of-speech-pos-tagging-5_pos_taggingipynb)
-      - [6. Named Entity Recognition (NER)](https://www.google.com/search?q=%236-named-entity-recognition-ner-6_named_entity_recognitionipynb)
-      - [7. Bag of Words (BoW)](https://www.google.com/search?q=%237-bag-of-words-bow-7_bag_of_wordsipynb)
-      - [8. TF-IDF](https://www.google.com/search?q=%238-tf-idf-8_tf-idfipynb)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Notebook Descriptions](#-notebook-descriptions)
+  - [1. Tokenization](#1-tokenization-1_tokenizationipynb)
+  - [2. Stemming](#2-stemming-2_stemmingipynb)
+  - [3. Lemmatization](#3-lemmatization-3_lemmatizationipynb)
+  - [4. Text Preprocessing Workflow](#4-text-preprocessing-workflow-4_text_preprocessing_stopwords_with_nltkipynb)
+  - [5. Part-of-Speech (POS) Tagging](#5-part-of-speech-pos-tagging-5_pos_taggingipynb)
+  - [6. Named Entity Recognition (NER)](#6-named-entity-recognition-ner-6_named_entity_recognitionipynb)
+  - [7. Bag of Words (BoW)](#7-bag-of-words-bow-7_bag_of_wordsipynb)
+  - [8. TF-IDF](#8-tf-idf-8_tf-idfipynb)
+ 
+## direct file access
+  - [1. Tokenization](./1_tokenization.ipynb)
+  - [2. Stemming](./2_stemming.ipynb)
+  - [3. Lemmatization](./3_lemmatization.ipynb)
+  - [4. Text Preprocessing Workflow](./4_Text_Preprocessing_Stopwords_With_NLTK.ipynb)
+  - [5. Part-of-Speech (POS) Tagging](./5_POS_tagging.ipynb)
+  - [6. Named Entity Recognition (NER)](./6_Named_Entity_Recognition.ipynb)
+  - [7. Bag of Words (BoW)](./7_Bag_of_words.ipynb)
+  - [8. TF-IDF](./8_tf-idf.ipynb)
+
 
 -----
 
